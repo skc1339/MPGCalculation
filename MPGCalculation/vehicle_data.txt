@@ -1,0 +1,4 @@
+Toyota Land Cruiser - 22.0 MPG
+Nissan Pathfinder - 23.0 MPG
+Honda Sante Fe - 25.0 MPG
+Ford Bronco - 27.0 MPG
